@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
 import { BrowserModule, provideClientHydration } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -30,6 +30,7 @@ import { ContactsComponent } from './components/contacts/contacts.component';
     BrowserModule,
     AppRoutingModule
   ],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [
     provideClientHydration()
   ],
