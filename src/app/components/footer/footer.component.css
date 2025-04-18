@@ -3,3 +3,8 @@
   font-size: 2rem; /* ajuste selon besoin */
 }
 
+.footer-social-icon i {
+  font-size: 24px;
+  color: #f72786;;
+  margin-right: 10px;
+}
