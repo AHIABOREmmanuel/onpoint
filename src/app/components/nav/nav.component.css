@@ -1,7 +1,10 @@
 
-.logo {
-  font-family: 'Pacifico', cursive;
-  color: #f72786; /* rose du logo */
-  font-size: 48px;
+.logo h1 {
+  font-family: 'Natashabela', cursive;
+  font-size: clamp(2rem, 5vw, 4rem);
 }
+
+
+
+
 

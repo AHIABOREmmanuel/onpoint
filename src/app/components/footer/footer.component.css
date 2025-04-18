@@ -1,6 +1,6 @@
 .footer-logo h3 {
   font-family: 'Natashabela', cursive;
-  font-size: 2rem; /* ajuste selon besoin */
+  font-size: clamp(2rem, 5vw, 4rem);
 }
 
 .footer-social-icon i {
