@@ -1,4 +1,4 @@
-/* 
+/*
   Template    : KA - Beauty Salon Website Template
   Author      : ZRTHEMES
   Version     : 1.0
@@ -33,13 +33,13 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ce0762; 
+  background: #ce0762;
   width: 15px;
   transition: all .4s ease;
 }
 
 ::-webkit-scrollbar-track {
-  background: #dddddd; 
+  background: #dddddd;
   width: 15px;
 }
 
@@ -2466,7 +2466,7 @@ section {
   }
 }
 
-/* -------------------------------------------------------------- 
+/* --------------------------------------------------------------
  * Counter Section Style
  -------------------------------------------------------------- */
 .counter-area{
@@ -3318,7 +3318,7 @@ button.btn-get-started:hover {
 
 .footer-section .contact-info h6{
   color: #ffffff;
-} 
+}
 .footer-section .contact-info p{
   margin-bottom: 0;
   color: #ffffff;
